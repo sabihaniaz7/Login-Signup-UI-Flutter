@@ -24,19 +24,6 @@ A production-ready Flutter authentication system with modern glassmorphism desig
 
 ---
 
-## 🎬 Demo Video
-
-<p align="center">
-<a href="https://www.youtube.com/watch?v=VIDEO_ID">
-  <img src="images/YoutubeThumbnail.png" width="80%" alt="Demo Video">
-</a>
-</p>
-<p align="center">
-<b><a href="https://www.youtube.com/watch?v=VIDEO_ID">▶️ Watch Full Demo on YouTube</a></b>
-</p>
-
----
-
 ## ✨ Features
 
 ### 🎨 **Modern UI/UX**
@@ -1175,43 +1162,6 @@ dependencies:
 
 ---
 
-## 📄 License
-
-Licensed under [CodeCanyon Standard License](https://codecanyon.net/licenses/standard).
-
-**Regular License (included with purchase):**
-
-- Use in one end product
-- Modify as needed
-- No attribution required
-
-**Extended License (available on CodeCanyon):**
-
-- Unlimited projects
-- Resale rights
-
-<p>For complete terms, visit the CodeCanyon license page</p>
-
----
-
-## 🤝 Support
-
-Need help? We've got you covered:
-
-1. **📚 Documentation**: Check this README and code comments
-2. **🔍 Troubleshooting**: See the troubleshooting section above
-3. **💬 Email Support**: <support@example.com> (30 days free for full kit)
-4. **🐛 Bug Reports**: Open an issue on GitHub
-5. **💡 Feature Requests**: Let us know what you need
-
-**Response Time:**
-
-- Email support: Within 24 hours
-- Bug fixes: Within 48 hours
-- Feature requests: Evaluated monthly
-
----
-
 ## 🎉 What's Included
 
 ✅ **Complete authentication flow** (Login, Signup, Password Recovery)  
@@ -1266,16 +1216,6 @@ Ready to build amazing authentication experiences? Here's your roadmap:
 
 ---
 
-## 🌟 Showcase
-
-Built something amazing with this template? We'd love to see it!
-
-Share your work:
-
-- 📧 Email: <seraa.dev@gmail.com>
-
----
-
 ## 📊 Version History
 
 ### **v1.0.0** (February 2026) - Initial Release
@@ -1314,9 +1254,5 @@ Share your work:
 </p>
 
 ---
-
-## 📞 Contact
-
-- **Email**: <seraa.dev@gmail.com>
 
 ---
