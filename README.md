@@ -6,7 +6,6 @@ A production-ready Flutter authentication system with modern glassmorphism desig
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.0+-blue.svg" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-3.0+-green.svg" alt="Dart">
-  <img src="https://img.shields.io/badge/License-CodeCanyon-yellow.svg" alt="License">
   <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey.svg" alt="Platform">
   <img src="https://img.shields.io/badge/Material-Design%203-purple.svg" alt="Material Design 3">
 </p>
@@ -509,9 +508,9 @@ dependencies:
 ✅ **Comprehensive validation** for all inputs  
 ✅ **Error handling** and user feedback  
 ✅ **Smooth animations** and transitions  
-✅ **Social login buttons** 
-✅ **Reusable components** for your app  
-✅ **Zero backend required** (UI template only)  
+✅ **Social login buttons** <br>
+✅ **Reusable components** <br> 
+✅ **Zero backend required**
 
 ---
 
