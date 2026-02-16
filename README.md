@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 -->
-# 🔐 Premium Authentication UI Template
+# Flutter Authentication UI Template
 
 A production-ready Flutter authentication system with modern glassmorphism design, featuring Login/Signup, Forgot Password flow, and OTP verification. Built with Material 3, responsive design, and zero backend dependencies.
 
