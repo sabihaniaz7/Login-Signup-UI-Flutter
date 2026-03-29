@@ -12,71 +12,71 @@ A production-ready Flutter authentication system with modern glassmorphism desig
 
 ---
 
-## 📱 Preview
+## Preview
 
-| Screen | Light Mode | Dark Mode |
-| :--- | :---: | :---: |
-| **Login** | <img src="images/login_light.png" width="100%" alt="Login Light Mode Screen"> | <img src="images/login_dark.png" width="100%" alt="Login Dark Mode Screen"> |
-| **Signup** | <img src="images/signup_light.png" width="100%" alt="Signup Light Mode Screen"> | <img src="images/signup_dark.png" width="100%" alt="Signup Dark Mode Screen"> |
-| **Forgot Password** | <img src="images/forget_password_light.png" width="100%" alt="Forgot Password Light Mode Screen"> | <img src="images/forget_password_dark.png" width="100%" alt="Forgot Password Dark Mode Screen"> |
-| **OTP Verification** | <img src="images/verify_light.png" width="100%" alt="Verify Light Mode Screen"> | <img src="images/verify_dark.png" width="100%" alt="Verify Dark Mode Screen"> |
-| **New Password** | <img src="images/new_password_light.png" width="100%" alt="New Password Light Mode Screen"> | <img src="images/new_password_dark.png" width="100%" alt="New Password Dark Mode Screen"> |
+| Light Mode | Dark Mode |
+| :---: | :---: |
+| <img src="images/login_light.png" width="100%" alt="Login Light Mode Screen"> | <img src="images/login_dark.png" width="100%" alt="Login Dark Mode Screen"> |
+| <img src="images/signup_light.png" width="100%" alt="Signup Light Mode Screen"> | <img src="images/signup_dark.png" width="100%" alt="Signup Dark Mode Screen"> |
+| <img src="images/forget_password_light.png" width="100%" alt="Forgot Password Light Mode Screen"> | <img src="images/forget_password_dark.png" width="100%" alt="Forgot Password Dark Mode Screen"> |
+| <img src="images/verify_light.png" width="100%" alt="Verify Light Mode Screen"> | <img src="images/verify_dark.png" width="100%" alt="Verify Dark Mode Screen"> |
+| <img src="images/new_password_light.png" width="100%" alt="New Password Light Mode Screen"> | <img src="images/new_password_dark.png" width="100%" alt="New Password Dark Mode Screen"> |
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎨 **Modern UI/UX**
+### **Modern UI/UX**
 
-- ✅ **Glassmorphism design** with blur effects and transparency
-- ✅ **Smooth animations** and page transitions
-- ✅ **Rive animated character** - Interactive bunny/bear responds to user inputs
-- ✅ **Gradient backgrounds** with floating orbs
-- ✅ **Soft shadows** and rounded corners
-- ✅ **Dark/Light mode** support (Material 3)
-- ✅ **Fully responsive** (iOS & Android optimized)
+- **Glassmorphism design** with blur effects and transparency
+- **Smooth animations** and page transitions
+- **Rive animated character** - Interactive bunny/bear responds to user inputs
+- **Gradient backgrounds** with floating orbs
+- **Soft shadows** and rounded corners
+- **Dark/Light mode** support (Material 3)
+- **Fully responsive** (iOS & Android optimized)
 
-### 🔐 **Authentication Screens**
+### **Authentication Screens**
 
-- ✅ **Login/Signup Screen**
+- **Login/Signup Screen**
   - Seamless toggle between modes with validation
   - Animated character responds to focus changes
   - Eye tracking animation (follows email input)
   - Password eye cover animation (privacy feature)
   - Social login buttons (Google, Facebook, Apple)
   
-- ✅ **Forgot Password Screen**
+- **Forgot Password Screen**
   - Email & Phone number support
   - Country code selector (25+ countries)
   - Live validation feedback
   
-- ✅ **OTP Verification**
+- **OTP Verification**
   - 6-digit OTP with autofocus
   - Auto-advance to next field
   - 60-second countdown timer
   - Resend OTP functionality
   - Masked contact display
   
-- ✅ **Create New Password**
+- **Create New Password**
   - Password reset with real-time validation
   - Confirm password matching
   - Show/hide password toggle
   
-- ✅ **Home Screen**
+- **Home Screen**
   - Example post-authentication screen
 
-### 🛡️ **Security & Validation**
+### **Security & Validation**
 
-- ✅ **Real-time email validation** with visual feedback
-- ✅ **Strong password requirements** (8+ chars, uppercase, number, special char)
-- ✅ **Phone number validation** (9+ digits)
-- ✅ **Name validation** (capital letter requirements)
-- ✅ **Password matching** confirmation
-- ✅ **Form validation** with TextFormField
+- **Real-time email validation** with visual feedback
+- **Strong password requirements** (8+ chars, uppercase, number, special char)
+- **Phone number validation** (9+ digits)
+- **Name validation** (capital letter requirements)
+- **Password matching** confirmation
+- **Form validation** with TextFormField
 
 ---
 
-## 🎬 Rive Animation Integration
+## Rive Animation Integration
 
 <p align="center">
   <a href="https://rive.app/marketplace/19399-36451-logininteraction/">
@@ -97,7 +97,7 @@ The project uses **Rive** for the interactive character animation on the Login/S
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 lib/
@@ -119,7 +119,7 @@ assets/
 ```
 ---
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Built With
 - **Flutter 3.0+** - Cross-platform framework
@@ -142,7 +142,7 @@ assets/
 
 ---
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### 1. **Login/Signup Screen**
 
@@ -301,10 +301,6 @@ String? validatePhoneNumber(String? phone) {
 
 ### 4. **Styling & Themes**
 
-<p align="center">
-  <img src="images/theme-colors.png" alt="Color Palette" height="350px">
-</p>
-
 All colors, spacing, and typography are centralized in `lib/Styles/styles.dart`
 
 #### **Colors**
@@ -395,7 +391,7 @@ class AuthLogic {
 
 ---
 
-### 🔠 Typography & Fonts
+### Typography & Fonts
 
 <p align="center">
   <a href="https://rsms.me/inter/"><b>Inter Font Family</b></a>
@@ -405,7 +401,7 @@ The project uses the **Inter** font family for a clean, modern look.
 
 ---
 
-## 📋 Screen Details
+## Screen Details
 
 ### Login/Signup (`login_signup_screen.dart`)
 
@@ -463,7 +459,7 @@ The project uses the **Inter** font family for a clean, modern look.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 This template uses minimal dependencies for maximum flexibility:
 
@@ -485,7 +481,7 @@ dependencies:
 
 ---
 
-## 🎓 Learning Resources
+## Learning Resources
 
 - [Flutter Documentation](https://flutter.dev/docs) - Official Flutter docs
 - [Material Design 3](https://m3.material.io/) - Material 3 guidelines
@@ -495,37 +491,36 @@ dependencies:
 
 ---
 
-## 🎉 What's Included
+## What's Included
 
-✅ **Complete authentication flow** (Login, Signup, Password Recovery)  
-✅ **Modern glassmorphism UI** with blur effects  
-✅ **Rive animated character** that responds to user input  
-✅ **Email & phone support** for password recovery  
-✅ **OTP verification** with countdown timer  
-✅ **Dark/Light mode** with Material 3  
-✅ **Fully responsive** design (iOS & Android)  
-✅ **Production-ready code** with clean architecture  
-✅ **Comprehensive validation** for all inputs  
-✅ **Error handling** and user feedback  
-✅ **Smooth animations** and transitions  
-✅ **Social login buttons** <br>
-✅ **Reusable components** <br> 
-✅ **Zero backend required**
+**Complete authentication flow** (Login, Signup, Password Recovery)  
+**Modern glassmorphism UI** with blur effects  
+**Rive animated character** that responds to user input  
+**Email & phone support** for password recovery  
+**OTP verification** with countdown timer  
+**Dark/Light mode** with Material 3  
+**Fully responsive** design (iOS & Android)  
+**Production-ready code** with clean architecture  
+**Comprehensive validation** for all inputs  
+**Error handling** and user feedback  
+**Smooth animations** and transitions  
+**Social login buttons** <br>
+**Reusable components**
 
 ---
 
-## 📊 Version History
+## Version History
 
 ### **v1.0.0** (February 2026) - Initial Release
 
-- ✅ Complete authentication flow
-- ✅ Rive character animation
-- ✅ Dark/Light mode support
-- ✅ OTP verification with timer
-- ✅ Social login UI
-- ✅ Comprehensive documentation
+- Complete authentication flow
+- Rive character animation
+- Dark/Light mode support
+- OTP verification with timer
+- Social login UI
+- Comprehensive documentation
 
----
+----
 
 ## Credits
 
@@ -545,10 +540,6 @@ dependencies:
 
 <p align="center">
   <i>Last Updated: February 2026 | Version: 1.0.0</i>
-</p>
-
-<p align="center">
-  <a href="#-premium-authentication-ui-template">Back to Top ↑</a>
 </p>
 
 ---
